@@ -24,7 +24,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="0"
-            android:fontFamily="monospace"
+            android:background="#222222"
             android:text="copy" />
     </LinearLayout>
 
@@ -36,11 +36,13 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:background="#222222"
             android:text="clear" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:background="#222222"
             android:text="run" />
     </LinearLayout>
 
@@ -56,36 +58,43 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:background="#222222"
                 android:text="灯" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:background="#222222"
                 android:text="華" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:background="#222222"
                 android:text="あ" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:background="#222222"
                 android:text="い" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:background="#222222"
                 android:text="う" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:background="#222222"
                 android:text="え" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:background="#222222"
                 android:text="お" />
         </LinearLayout>
 
